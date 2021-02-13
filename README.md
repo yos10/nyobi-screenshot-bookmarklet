@@ -1,1 +1,1 @@
-# nyobi-screenshot-bookmarklet
+N予備校の授業動画のスクリーンショットを撮ることができるブックマークレットです。
