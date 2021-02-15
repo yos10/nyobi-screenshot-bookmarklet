@@ -15,4 +15,4 @@
   a.href = canvas.toDataURL('image/jpeg', 0.9);
   a.download = fileName;
   a.click();
-};
+}
